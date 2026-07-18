@@ -1,0 +1,15 @@
+{
+  "name": "rockstarz-backend",
+  "version": "1.0.0",
+  "description": "Backend for The Voice of Rockstar'z",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@libsql/client": "^0.15.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "uuid": "^9.0.0"
+  }
+}
